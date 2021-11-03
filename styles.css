@@ -1,0 +1,31 @@
+#spongebob {
+    display: none;
+    height: 100px;
+    width: 100px;
+}
+
+#patrick {
+    display: none;
+    height: 100px;
+    width: 100px;
+}
+
+#squidward {
+    display: none;
+    height: 100px;
+    width: 100px;
+}
+
+#mrkrabs {
+    display: none;
+    height: 100px;
+    width: 100px;
+}
+
+body{
+background: url("https://i1.sndcdn.com/artworks-000587584139-6p4h4h-t500x500.jpg");
+    font-family: 'Akaya Kanadaka', cursive;
+    color: yellow;
+    font-size: 25px;
+}
+
